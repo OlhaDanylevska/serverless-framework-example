@@ -12,6 +12,8 @@ functions:
       - http:
           path: animals
           method: POST
+  function2:
+    handler: index2.handler
 
 resources:
   Resources:

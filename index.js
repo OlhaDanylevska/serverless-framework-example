@@ -3,7 +3,7 @@ module.exports.handler = async (event) => {
         statusCode: 200,
         body: JSON.stringify(
             {
-                message: 'Go Serverless v3.0! Your function executed successfully! PR example',
+                message: 'Go Serverless v3.0! Your function executed successfully! Iryna',
                 input: event,
             },
             null,
